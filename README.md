@@ -6,6 +6,8 @@ Project 02 for the Pluto Academy AI & ML Internship.
 
 This project tries to predict whether a Titanic passenger survived or not, using the classic Titanic dataset from Kaggle. The main goal was to train a few different ML models, compare how well they perform, and figure out which one works best and why.
 
+Colab Link - https://colab.research.google.com/drive/1PbiL4hq_TNcJrYrJYnziq9D0Vcf6gT2V?usp=sharing
+
 Dataset: https://www.kaggle.com/c/titanic (891 passengers, 12 columns)
 
 ## Tools used
